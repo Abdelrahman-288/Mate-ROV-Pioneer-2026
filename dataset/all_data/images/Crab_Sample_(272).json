@@ -1,0 +1,82 @@
+{
+  "version": "6.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          198.59154929577466,
+          165.78873239436618
+        ],
+        [
+          267.60563380281684,
+          292.5492957746479
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          122.53521126760563,
+          567.1971830985915
+        ],
+        [
+          273.23943661971833,
+          729.169014084507
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          828.1690140845069,
+          1022.1267605633802
+        ],
+        [
+          595.7746478873239,
+          786.9154929577464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          407.0422535211267,
+          423.53521126760563
+        ],
+        [
+          632.3943661971832,
+          141.84507042253517
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Crab_Sample_(272).jpg",
+  "imageData": null,
+  "imageHeight": 1202,
+  "imageWidth": 1200
+}

@@ -1,0 +1,9 @@
+python scripts/clean.py
+python scripts/convert_labelme_to_yolo.py
+python scripts/split_dataset.py
+python scripts/augmentation.py
+python scripts/clean_duplicates.py
+python scripts/train.py
+python scripts/evaluate.py
+python scripts/infer_image.py
+python scripts/live_camera.py

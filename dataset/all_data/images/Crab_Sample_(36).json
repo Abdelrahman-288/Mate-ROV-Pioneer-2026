@@ -1,0 +1,64 @@
+{
+  "version": "6.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          76.48230088495579,
+          111.43805309734515
+        ],
+        [
+          0.0,
+          20.01093479808766
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          10.995575221238973,
+          217.63274336283186
+        ],
+        [
+          105.68584070796463,
+          292.8539823008849
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          321.61504424778764,
+          296.3938053097345
+        ],
+        [
+          399.4911504424779,
+          345.06637168141594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Crab_Sample_(36).jpg",
+  "imageData": null,
+  "imageHeight": 445,
+  "imageWidth": 445
+}

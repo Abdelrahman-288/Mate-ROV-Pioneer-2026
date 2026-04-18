@@ -1,0 +1,28 @@
+{
+  "version": "6.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "green_crab",
+      "points": [
+        [
+          344.0,
+          150.24999999999997
+        ],
+        [
+          399.83333333333337,
+          231.08333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Crab_Sample_(60).jpg",
+  "imageData": null,
+  "imageHeight": 418,
+  "imageWidth": 418
+}
