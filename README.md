@@ -2,7 +2,7 @@
 ### Underwater Robotics • Computer Vision • AI Engineering
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="800"/>
+  <img src="D:\Career\Certificates\Mate.png" width="800"/>
 </p>
 
 <p align="center">
